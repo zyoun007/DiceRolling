@@ -35,3 +35,4 @@ print ('done rolling')
 #in range means the amount of rolls
 #random.randrange() means the amount of sides
 
+#https://github.com/zyoun007/DiceRolling?search=1
